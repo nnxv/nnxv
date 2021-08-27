@@ -1,0 +1,98 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://img.ooee.top/",
+            "path": "index.html",
+            "saved": true,
+            "size": 5370,
+            "children": [
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/gh/jialezi/imgs@latest/static/file.js",
+                    "path": "js/file.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/gh/jialezi/imgs@latest/static/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 5047,
+                    "children": []
+                },
+                {
+                    "url": "https://pic.rmb.bdstatic.com/bjh/7f258369bc7cae227053a6588adb2453.png",
+                    "path": "img/7f258369bc7cae227053a6588adb2453.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "img-ooee-top-b1ti19h3",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://img.ooee.top/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://img.ooee.top/",
+            "statusCode": 200,
+            "headers": {
+                "date": "Fri, 27 Aug 2021 01:02:09 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "cache-control": "public, max-age=0, must-revalidate",
+                "cf-cache-status": "DYNAMIC",
+                "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=XQBVBQDLCdCvr0evV%2FSHq73iaysDN52BA%2BA7xENiBaU%2FOqWGmBlI2Mdlhcu8Ue2T9avOWv6mub066O5Lx3qRpMJI81K%2B1LZmIQjpTjub3cqtDcYYYQDGfvYq3EuULr8%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "vary": "Accept-Encoding",
+                "server": "cloudflare",
+                "cf-ray": "68515f6d296cefa6-NRT",
+                "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2021-08-27T01:02:08.975Z",
+            "end": "2021-08-27T01:02:11.009Z"
+        },
+        "remark": [],
+        "ip": "172.67.220.148",
+        "url": "https://img.ooee.top/",
+        "main": "index.html",
+        "domain": "img.ooee.top",
+        "origin": "https://img.ooee.top",
+        "totalSize": "10.4 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://img.ooee.top/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
